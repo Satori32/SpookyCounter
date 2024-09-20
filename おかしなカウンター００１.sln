@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "おかしなカウンター００１", "おかしなカウンター００１.vcxproj", "{A7DF9A29-4318-403E-A1D3-13B4E218FBA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7DF9A29-4318-403E-A1D3-13B4E218FBA7}.Debug|x64.ActiveCfg = Debug|x64
+		{A7DF9A29-4318-403E-A1D3-13B4E218FBA7}.Debug|x64.Build.0 = Debug|x64
+		{A7DF9A29-4318-403E-A1D3-13B4E218FBA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7DF9A29-4318-403E-A1D3-13B4E218FBA7}.Debug|x86.Build.0 = Debug|Win32
+		{A7DF9A29-4318-403E-A1D3-13B4E218FBA7}.Release|x64.ActiveCfg = Release|x64
+		{A7DF9A29-4318-403E-A1D3-13B4E218FBA7}.Release|x64.Build.0 = Release|x64
+		{A7DF9A29-4318-403E-A1D3-13B4E218FBA7}.Release|x86.ActiveCfg = Release|Win32
+		{A7DF9A29-4318-403E-A1D3-13B4E218FBA7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2C391C-066A-42FD-8A27-C1D2AA4F8567}
+	EndGlobalSection
+EndGlobal
